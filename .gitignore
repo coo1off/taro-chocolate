@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Local development / QA
+.tools/
+.browser/
+.npm-cache/
+qa/
+node_modules/
+*.log
+
+# Исходное ТЗ не публикуем в открытом репозитории
+тз.md
